@@ -2,25 +2,26 @@
 #!/usr/bin/python
 #
 #
-# =====S.E ELMORSY.....¿
+#      =====S.E ELMORSY.....¿
 #
-# Name	:	ELMORSY ATTACK2
-# Code		:	python
-# Telgram : @ANONEMOS_SE
-# WhatsApp  :+201021597142
-# Insta     : 8elm_orsy8
-# github	:github.com/AS7ABELMGRA.
+#  Name	:	ELMORSY ATTACK2
+#  Code		:	python
+#  Telgram : @ANONEMOS_SE
+#  WhatsApp  :+201021597142
+#  Insta     : 8elm_orsy8
+#  github	:github.com/AS7ABELMGRA.
 #
 #
-#=====S.E ELMORSY.....¿
+#       =====S.E ELMORSY.....¿
 #
 #  The thief will cost him a fine. Greetings, Mursi
 #
-#=====S.E SECRTER EBLS....¿
+#       =====S.E SECRTER EBLS....¿
 #
 #
 #
-
+#
+#
 import sys
 import time
 import os
