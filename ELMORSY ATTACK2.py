@@ -30,7 +30,7 @@ print
 print
 print
 os.system("clear")
-os.system("bash logo.sh")
+os.system("bash SECRTER EBLES.sh")
 print
 print
 print
