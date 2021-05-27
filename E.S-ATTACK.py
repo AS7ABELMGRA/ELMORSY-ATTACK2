@@ -2,7 +2,7 @@
 #!/usr/bin/python
 #
 #
-# 	℘S.E℘ ELMORSY.....¿
+# =====S.E ELMORSY.....¿
 #
 # Name	:	ELMORSY ATTACK2
 # Code		:	python
@@ -12,11 +12,11 @@
 # github	:github.com/AS7ABELMGRA.
 #
 #
-#	℘S.E℘ ELMORSY.....¿
+#=====S.E ELMORSY.....¿
 #
 #  The thief will cost him a fine. Greetings, Mursi
 #
-#	℘S.E℘ SECRTER EBLS....¿
+#=====S.E SECRTER EBLS....¿
 #
 #
 #
@@ -182,7 +182,7 @@ print
 print
 print "\033[1m\033[32mEnter Your IP Or Elmorsy..."
 print
-ip = raw_input("\033[1m\033[32m IP or Domain : \033[33m\033[1m")
+ip = raw_input("\033[1m\033[32m IP or Elmorsy : \033[33m\033[1m")
 print
 time.sleep(3)
 whois()
